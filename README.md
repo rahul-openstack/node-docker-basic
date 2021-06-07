@@ -32,6 +32,7 @@ docker rmi node-docker:v1.0.0
 6. Running Containers 
 docker run -d -p 8000:8000 --name rest-server node-docker
 
+
 Here - rest-server is name of container & we specify port 8000 for the container
 
 
